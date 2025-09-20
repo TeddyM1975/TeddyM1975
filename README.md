@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhtady.
-- 👀 Front-End and Back-End website developer, Data Scienctist, Data Analyst, Machine Learning Engineer.
+- 👀 Front-End and Back-End website developer, Data Scienctist, Data Analyst, Machine Learning Engineer, AI developer, Automation Engineer.
 - 💻 Specialize in Excel, SQL, PowerBI, Python.
 - 🌱 I’m presently a Data Science Associate certified by Datacamp.
 - 💞️ I’m looking to collaborate on ...
