@@ -1,6 +1,6 @@
 <!-- Profile README for TeddyM1975 -->
 
-<h1 align="center">👋 Hey, I'm Muhtady Ajibola (Teddy)</h1>
+<h1 align="center">👋 Hey, I'm Muhtady Olajobi (Teddy)</h1>
 <!-- <h3 align="center">Budding Data Scientist • Data Analyst • AI Engineer • Automation Builder</h3> -->
 
 <!-- Typing SVG Banner -->
