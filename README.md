@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/-Seaborn-0099CC?style=for-the-badge&logo=seaborn&logoColor=white" />
   <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/OpenAI-4A4A55?logo=openai&style=for-the-badge" />
 </p>
 
 ---
