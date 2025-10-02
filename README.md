@@ -3,6 +3,11 @@
 <h1 align="center">👋 Hey, I'm Muhtady Ajibola (Teddy)</h1>
 <h3 align="center">Budding Data Scientist • Data Analyst • AI Engineer • Automation Builder</h3>
 
+<!-- Typing SVG Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Budding+Data+Scientist;AI+Engineer+%7C+Automation+Builder;Founder+of+H.M.T.;Crypto+Trader+%7C+Web3+Explorer" alt="Typing SVG" />
+</p>
+
 ---
 
 ### 🚀 About Me
