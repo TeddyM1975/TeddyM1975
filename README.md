@@ -8,7 +8,7 @@
 ### 🚀 About Me
 - 🌱 Currently learning **Deep Learning & LLMs**  
 - 💼 Founder of **Horizon Management Tech Solutions (H.M.T.)**  
-- 📊 Certified in **SQL, Python, and Data Science** (DataCamp + Udemy)  
+- 📊 Certified in **SQL, Python, Data Analysis, and Data Science** (DataCamp + Udemy)  
 - 🔭 Building projects in **Data Analysis, ML, and AI Automation**  
 - 🧑‍🏫 Teaching **Frontend Development** to high school students  
 - 🎯 Exploring **AI Agents, RAG systems, and automation with n8n**  
@@ -51,9 +51,9 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/muhtadyajibola"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhtady-olajobi-795b131b6/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/muhtady_olajobi"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:ajibolamuhtady@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:Muhtadyajibola@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
