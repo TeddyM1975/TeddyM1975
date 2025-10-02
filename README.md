@@ -1,11 +1,11 @@
 <!-- Profile README for TeddyM1975 -->
 
 <h1 align="center">👋 Hey, I'm Muhtady Ajibola (Teddy)</h1>
-<h3 align="center">Budding Data Scientist • Data Analyst • AI Engineer • Automation Builder</h3>
+<!-- <h3 align="center">Budding Data Scientist • Data Analyst • AI Engineer • Automation Builder</h3> -->
 
 <!-- Typing SVG Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Budding+Data+Scientist;AI+Engineer+%7C+Automation+Builder;Founder+of+H.M.T.;Crypto+Trader+%7C+Web3+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Data+Scientist;AI+Engineer+%7C+Automation+Builder;Founder+of+H.M.T.;Crypto+Trader+%7C+Web3+Explorer" alt="Typing SVG" />
 </p>
 
 ---
@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/OpenAI-4A4A55?logo=openai&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-n8n-E66D7A?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
 ---
