@@ -42,11 +42,11 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-sepia-psi-57.vercel.app/api?username=TeddyM1975&show_icons=true&theme=tokyonight"&include_all_commits=true alt="GitHub Stats" height="180" />
-  <img src="https://streak-stats.demolab.com/?user=TeddyM1975&theme=tokyonight" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats-sepia-psi-57.vercel.app/api?username=TeddyM1975&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=TeddyM1975&theme=tokyonight&include_all_commits=true" alt="GitHub Streak" height="180" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-sepia-psi-57.vercel.app/api/top-langs/?username=TeddyM1975&layout=compact&theme=tokyonight"&include_all_commits=true alt="Top Languages" />
+  <img src="https://github-readme-stats-sepia-psi-57.vercel.app/api/top-langs/?username=TeddyM1975&layout=compact&theme=tokyonight&include_all_commits=true" alt="Top Languages" />
 </p>
 
 ---
